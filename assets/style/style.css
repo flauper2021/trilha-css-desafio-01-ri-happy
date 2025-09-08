@@ -134,4 +134,8 @@ section {
     margin: 32px 0;
 }
 
+#professional-challenges p {
+    text-align: justify;
+    font-size: .95rem;
+}
 
