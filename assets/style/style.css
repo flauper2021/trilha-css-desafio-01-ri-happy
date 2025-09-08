@@ -125,5 +125,13 @@ section {
     text-shadow: 3px 2px #33A8DB;
 }
 
+#professional-challenges {
+    width: 800px;
+    text-align: center;
+}
+
+#professional-challenges img {
+    margin: 32px 0;
+}
 
 
