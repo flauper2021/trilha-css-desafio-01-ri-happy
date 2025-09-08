@@ -139,3 +139,10 @@ section {
     font-size: .95rem;
 }
 
+footer {
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    background-image: -webkit-linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    text-align: center;
+    padding: 60px 0;
+    border-top: 1px solid #33A8DB80;
+}
