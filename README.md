@@ -6,6 +6,6 @@ as propriedades básicas da linguagem de estilização, além de trabalhar com a
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
 
-[Link do Pagina](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) Pagina da Landing Page.
+[Link do Pagina](https://flauper2021.github.io/trilha-css-desafio-01-ri-happy/) Pagina da Landing Page.
 
 Grato por visitar meu Github.
